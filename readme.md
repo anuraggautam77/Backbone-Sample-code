@@ -1,4 +1,4 @@
-# Sample Code to store data in Localstorage using backbone view and router and Twitter Bootstrap #
+# Sample Code to store data in Localstorage using backbonejs,underscorejs and bootstarp
 1 ) I am using backbone framework + jquery + localstorage for developing this code.
     Application contains 3 directory
 
