@@ -6,7 +6,7 @@
 
 
                  1--> lib (js Libraries  ie Backbone, bootstrap, jquery , underscorejs.etc)
-                 2--> # js #
+                 2--> js
                                 2.1--->#employee#
                                        2.1.1--->util
                                             2.1.1.1---->memorystore.js (getter , setter for local storage).
